@@ -29,7 +29,6 @@ zalgo-text
 geopy
 psutil
 jikanpy
-speed test-cli==2.1.3
 coffeehouse
 pymongo==3.12.0
 regex
